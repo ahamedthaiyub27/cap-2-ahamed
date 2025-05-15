@@ -17,6 +17,6 @@ https://github.com/ahamedthaiyub27/capstone-project-2
 
 ```bash
 git clone https://github.com/ahamedthaiyub27/capstone-project-2.git
-cd capstone-project-2
+
 npm install
 npm start
