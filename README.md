@@ -4,7 +4,7 @@ Pocket Notes is a sleek and responsive note-taking application built with React.
 
 ## Live Demo
 Try the app here:  
-https://ahamed-capstone-2-cuvette.netlify.app
+[ahamed-cuvette-project.netlify.app](https://ahamed-cuvette-project.netlify.app)
 
 ## GitHub Repository
 Explore the code:  
